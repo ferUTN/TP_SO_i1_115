@@ -1,0 +1,12 @@
+Apellido y nombre de los integrantes del equipo:
+
+Masotti Fernando Javier
+Aner Federico
+Suárez Grecco Christian Thomás
+
+a-¿ALFA ve los datos que cargaron los demás en su repositorio?
+Si, los veo.
+
+b-¿Si ALFA agrega un archivo los demás integrantes lo ven?
+Si, lo verán en el repositorio remoto.
+
