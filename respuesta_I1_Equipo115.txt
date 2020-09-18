@@ -1,4 +1,4 @@
-Apellido y nombre de los integrantes del equipo:
+﻿Apellido y nombre de los integrantes del equipo:
 
 Masotti Fernando Javier
 Aner Federico
@@ -10,3 +10,10 @@ Si, los veo.
 b-¿Si ALFA agrega un archivo los demás integrantes lo ven?
 Si, lo verán en el repositorio remoto.
 
+
+
+c-¿Si BETA agrega un archivo los demás integrantes lo ven?
+Si, lo van a ver en el repositorio remoto con el commit correspondiente y cuando hagan un pull se actualizara el contenido en su repo local.
+
+d-¿De qué forma se comunicaron ustedes?
+De momneto por whatsapp, tal vez agreguemos otra alternativa como discord.
