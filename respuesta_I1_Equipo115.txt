@@ -17,3 +17,6 @@ Si, lo van a ver en el repositorio remoto con el commit correspondiente y cuando
 
 d-¿De qué forma se comunicaron ustedes?
 De momneto por whatsapp, tal vez agreguemos otra alternativa como discord.
+
+e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
+Por los mensajes de Commits directamente, ir chequeando basicamente
